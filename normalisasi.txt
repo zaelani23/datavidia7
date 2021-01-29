@@ -370,7 +370,6 @@ gmn	bagaimana
 gn	begini
 goblog	goblok
 goblok	bodoh
-good	bagus
 gokil	gila
 golput	golongan putih
 gombal	suka merayu
